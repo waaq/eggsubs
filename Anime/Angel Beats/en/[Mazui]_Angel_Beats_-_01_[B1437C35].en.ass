@@ -9,13 +9,13 @@ PlayResX: 1920
 PlayResY: 1080
 Timer: 100.0000
 Aegisub Scroll Position: 160
-Aegisub Active Line: 167
-Aegisub Video Zoom Percent: 0.432407
-Audio URI: ../../../Media/Videos/Anime/Angel Beats/[UTW] Angel Beats! [BD][h264-1080p FLAC]/[UTW]_Angel_Beats!_-_01v2_[BD][h264-1080p_FLAC][B448458F].mkv
-Video File: ../../../Media/Videos/Anime/Angel Beats/[UTW] Angel Beats! [BD][h264-1080p FLAC]/[UTW]_Angel_Beats!_-_01v2_[BD][h264-1080p_FLAC][B448458F].mkv
+Aegisub Active Line: 162
+Aegisub Video Zoom Percent: 0.170370
+Audio URI: ../../../../../Media/Videos/Anime/Angel Beats/[UTW] Angel Beats! [BD][h264-1080p FLAC]/[UTW]_Angel_Beats!_-_01v2_[BD][h264-1080p_FLAC][B448458F].mkv
+Video File: ../../../../../Media/Videos/Anime/Angel Beats/[UTW] Angel Beats! [BD][h264-1080p FLAC]/[UTW]_Angel_Beats!_-_01v2_[BD][h264-1080p_FLAC][B448458F].mkv
 YCbCr Matrix: TV.601
 Aegisub Video Aspect Ratio: c1.777778
-Aegisub Video Position: 3258
+Aegisub Video Position: 2687
 Last Style Storage: Default
 
 [V4+ Styles]
@@ -198,7 +198,7 @@ Dialogue: 0,0:01:39.71,0:01:42.30,jpA.sub,NTP,0,0,0,,What is this place
 Dialogue: 0,0:01:52.07,0:01:53.77,jpA.sub,NTP,0,0,0,,Why can't I remember anything
 Dialogue: 0,0:01:56.05,0:01:57.27,jpA.sub,NTP,0,0,0,,You're awake
 Dialogue: 0,0:02:03.21,0:02:04.16,jpA.sub,NTP,0,0,0,,Who-
-Dialogue: 0,0:02:03.68,0:02:05.02,jpA.sub,NTP,0,0,0,,{\a6}ようこそ
+Dialogue: 0,0:02:03.68,0:02:05.02,jpA.sub,NTP,0,0,0,,{\a6}Welcome...
 Dialogue: 0,0:02:05.44,0:02:07.43,jpA.sub,NTP,0,0,0,,死んで堪るか戦線へ
 Dialogue: 0,0:02:15.87,0:02:19.44,jpA.sub,NTP,0,0,0,,唐突だけど　あなた入隊してくれないかしら
 Dialogue: 0,0:02:20.28,0:02:21.15,jpA.sub,NTP,0,0,0,,えっ入隊？
