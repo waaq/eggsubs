@@ -8,14 +8,14 @@ ScriptType: v4.00+
 PlayResX: 1920
 PlayResY: 1080
 Timer: 100.0000
-Aegisub Scroll Position: 160
-Aegisub Active Line: 162
-Aegisub Video Zoom Percent: 0.170370
-Audio URI: ../../../../../Media/Videos/Anime/Angel Beats/[UTW] Angel Beats! [BD][h264-1080p FLAC]/[UTW]_Angel_Beats!_-_01v2_[BD][h264-1080p_FLAC][B448458F].mkv
-Video File: ../../../../../Media/Videos/Anime/Angel Beats/[UTW] Angel Beats! [BD][h264-1080p FLAC]/[UTW]_Angel_Beats!_-_01v2_[BD][h264-1080p_FLAC][B448458F].mkv
+Aegisub Scroll Position: 0
+Aegisub Active Line: 13
+Aegisub Video Zoom Percent: 0.500000
+Audio URI: ../../../../../../Media/Videos/Anime/Angel Beats/[UTW] Angel Beats! [BD][h264-1080p FLAC]/[UTW]_Angel_Beats!_-_01v2_[BD][h264-1080p_FLAC][B448458F].mkv
+Video File: ../../../../../../Media/Videos/Anime/Angel Beats/[UTW] Angel Beats! [BD][h264-1080p FLAC]/[UTW]_Angel_Beats!_-_01v2_[BD][h264-1080p_FLAC][B448458F].mkv
 YCbCr Matrix: TV.601
 Aegisub Video Aspect Ratio: c1.777778
-Aegisub Video Position: 2687
+Aegisub Video Position: 3613
 Last Style Storage: Default
 
 [V4+ Styles]
@@ -33,179 +33,19 @@ Style: en.SUB,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,ZW,PopSub,0,0,0,,// ZW用做中文對話內容
-Comment: 0,0:00:00.00,0:00:00.00,ZW,PopSub,0,0,0,,// jpA.sub用做日文部份 日文中文寫在一個字幕中，中文在前面日文在後面
-Comment: 0,0:00:00.00,0:00:00.00,ZW,PopSub,0,0,0,,// JP.ED為ED字體，shinapot為ED時所有亮點字體 CN.OP JP.OP分別為OP的中文和日文
-Comment: 0,0:00:00.00,0:00:00.00,ZW,PopSub,0,0,0,,// JP.SONG為插入歌字體ASIDE為標記地名字體
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,ZW,NTP,0,0,0,,OP歌詞
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.OP,NTP,0,0,0,,{\a6\be1}{\K100}目{\K20}覚{\K20}め{\K20}て{\K20}は{\K20}繰{\K20}り{\K20}返{\K50}す
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.OP,NTP,0,0,0,,{\a6\be1}{\K90}{\K20}眠{\K20}い{\K60}朝{\K80}は
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.OP,NTP,0,0,0,,{\a6\be1}{\K150}襟{\K50}の{\K50}タ{\K50}イ{\K90}を{\K30}き{\K30}つ{\K30}く{\K60}締{\K90}め
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.OP,NTP,0,0,0,,{\a6\be1}{\K50}教{\K50}室{\K30}の{\K30}ド{\K30}ア{\K20}く{\K15}ぐ{\K30}る{\K100}と
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.OP,NTP,0,0,0,,{\a6}{\be1}{\K30}ほ{\K30}ん{\K30}の{\K30}少{\K180}し{\K50}胸{\K50}を{\K50}張{\K130}って{\K50}歩{\K50}き{\K50}出{\K50}せ{\K120}る
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.OP,NTP,0,0,0,,{\a6\be1}{\K30}そ{\K10}ん{\K30}な{\K30}日{\K30}常{\K80}に
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.OP,NTP,0,0,0,,{\a6\be1}{\K50}吹{\K50}き{\K50}抜{\K50}け{\K50}る{\K90}風
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.OP,NTP,0,0,0,,{\a6}{\be1}{\K80}聞{\K30}こ{\K30}え{\K30}た{\K50}気{\K50}が{\K50}し{\K50}た　{\K40}感{\K30}じ{\K50}た{\K50}気{\K50}が{\K50}し{\K50}た{\K50}ん{\K100}だ\N
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.OP,NTP,0,0,0,,{\a6}{\be1}{\K50}{\K30}震{\K30}え{\K40}だ{\K40}す {\K50}今{\K40}こ{\K40}の{\K60}胸{\K40}で
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.OP,NTP,0,0,0,,{\a6}{\be1}{\K30}も{\K30}う{\K30}来{\K30}る気{\K30}が{\K30}し{\K30}た
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.OP,NTP,0,0,0,,{\a6}{\be1}{\K30}幾{\K30}億{\K30}の{\K100}星{\K30}が{\K30}消{\K170}え{\K30}去{\K30}って{\K30}く{\K30}の{\K180}を
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.OP,NTP,0,0,0,,{\a6}{\be1}{\K40}見{\K40}送{\K170}った {\K40}手{\K40}を{\K40}振{\K100}った\N
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.OP,NTP,0,0,0,,{\a6}{\be1}{\K110}{\K70}良{\K40}か{\K40}った{\K40}ね{\K40}と
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,jpA.sub,NTP,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,CN.OP,NTP,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,CN.OP,NTP,0,0,0,,{\alpha&H41&\3c&HC30AF9&}{\c&HFFFFFF&}{\a2}{\blur4}千百次的醒來
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,CN.OP,NTP,0,0,0,,{\alpha&H41&\3c&HC30AF9&}{\c&HFFFFFF&}{\a2}{\blur4}依舊睡意沉沉的清晨
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,CN.OP,NTP,0,0,0,,{\alpha&H41&\3c&HC30AF9&}{\c&HFFFFFF&}{\a2}{\blur4}用力系緊領帶
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,CN.OP,NTP,0,0,0,,{\alpha&H41&\3c&HC30AF9&}{\c&HFFFFFF&}{\a2}{\blur4}穿過教室的大門
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,CN.OP,NTP,0,0,0,,{\alpha&H41&\3c&HC30AF9&}{\c&HFFFFFF&}{\a2}{\blur4}就能稍稍挺起胸膛 向前邁進
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,CN.OP,NTP,0,0,0,,{\alpha&H41&\3c&HC30AF9&}{\c&HFFFFFF&}{\a2}{\blur4}這樣的日常生活里
-Dialogue: 0,0:00:00.00,0:00:00.00,CN.OP,NTP,0,0,0,,{\alpha&H41&\3c&HC30AF9&}{\c&HFFFFFF&}{\a2}{\blur4}吹過的縷縷清風
-Dialogue: 0,0:00:00.00,0:00:00.00,CN.OP,NTP,0,0,0,,{\alpha&H41&\3c&HC30AF9&}{\c&HFFFFFF&}{\a2}{\blur4}似乎聽見了 似乎感觸到了\N
-Dialogue: 0,0:00:00.00,0:00:00.00,CN.OP,NTP,0,0,0,,{\alpha&H41&\3c&HC30AF9&}{\c&HFFFFFF&}{\a2}{\blur4}不禁顫抖 此刻我心之中\N
-Dialogue: 0,0:00:00.00,0:00:00.00,CN.OP,NTP,0,0,0,,{\alpha&H41&\3c&HC30AF9&}{\c&HFFFFFF&}{\a2}{\blur4}已決心要前往
-Dialogue: 0,0:00:00.00,0:00:00.00,CN.OP,NTP,0,0,0,,{\alpha&H41&\3c&HC30AF9&}{\c&HFFFFFF&}{\a2}{\blur4}幾億消失的星輝
-Dialogue: 0,0:00:00.00,0:00:00.00,CN.OP,NTP,0,0,0,,{\alpha&H41&\3c&HC30AF9&}{\c&HFFFFFF&}{\a2}{\blur4}輕揮著手 目送著它們離去
-Dialogue: 0,0:00:00.00,0:00:00.00,CN.OP,NTP,0,0,0,,{\alpha&H41&\3c&HC30AF9&}{\c&HFFFFFF&}{\a2}{\blur4}太好了呢
-Dialogue: 0,0:00:00.00,0:00:00.00,CN.OP,NTP,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,jpA.sub,NTP,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.ED,NTP,0,0,0,,ED歌詞
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.ED,NTP,0,0,0,,{\fad(200,200)}{\be1}{\K80}そ{\K80}れ{\K80}で{\K40}も{\K80}私{\K80}は{\K120}歩{\K30}い{\K80}た{\K180}そ{\K80}れ{\K80}が強{\K80}さ{\K80}だ{\K80}った{\K80}
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.ED,NTP,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改 下一行有疑问
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行有疑问
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行有疑问
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.ED,NTP,0,0,0,,{\fad(200,200)}{\be1}即便如此我仍然走了下去　這便是我的堅強
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行有疑问
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行有疑问
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行有疑问
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行有疑问
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行有疑问
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行有疑问
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改 下一行有疑问
-Dialogue: 0,0:00:00.00,0:00:00.00,ZW,NTP,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,jpA.sub,NTP,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,jpA.sub,NTP,0,0,0,,總有一天人們會變得孤身一人
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.ED,NTP,0,0,0,,{\fnRoman}{\fade(255,0,255,0,200,800,10000){\move(500,0,400,80)}{\blur3}．
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,shinapot,NTP,0,0,0,,{\fnRoman}{\fs10}{\bord5}{\fade(255,0,255,0,200,800,10000){\move(900,10,700,80)}{\blur3}．
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.ED,NTP,0,0,0,,{\fnRoman}{\fade(255,0,255,0,200,800,7000){\move(500,30,400,80)}{\blur3}．
-Dialogue: 0,0:00:00.00,0:00:00.00,jpA.sub,NTP,0,0,0,,僅僅活在在回憶之中
-Dialogue: 0,0:00:00.00,0:00:00.00,jpA.sub,NTP,0,0,0,,{\fnRoman}{\fade(255,0,255,0,400,800,7000){\move(300,30,550,80)}{\blur3}．
-Dialogue: 0,0:00:00.00,0:00:00.00,jpA.sub,NTP,0,0,0,,{\fnRoman}{\fade(255,0,255,0,200,800,7000){\move(500,30,250,80)}{\blur3}．
-Dialogue: 0,0:00:00.00,0:00:00.00,jpA.sub,NTP,0,0,0,,{\fnRoman}{\fade(255,0,255,0,200,800,8000){\move(700,30,850,80)}{\blur3}．
-Dialogue: 0,0:00:00.00,0:00:00.00,jpA.sub,NTP,0,0,0,,{\fnRoman}{\fade(255,0,255,0,200,800,9000){\move(800,30,600,80)}{\blur3}．
-Dialogue: 0,0:00:00.00,0:00:00.00,jpA.sub,NTP,0,0,0,,{\fnRoman}{\fade(255,0,255,0,200,800,8000){\move(900,30,400,80)}{\blur3}．
-Dialogue: 0,0:00:00.00,0:00:00.00,jpA.sub,NTP,0,0,0,,直到面對哪怕孤獨　我也能笑著喜歡上的那天
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,shinapot,NTP,0,0,0,,{\fnRoman}{\fade(255,0,255,0,200,800,6000)\move(350,20,200,80)}{\blur5}．
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,shinapot,NTP,0,0,0,,{\fnRoman}{\fade(255,0,255,0,200,800,8000)\move(340,40,300,180)}{\blur3}．
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,shinapot,NTP,0,0,0,,{\fnRoman}{\fade(255,0,255,0,200,800,10000)\move(400,80,900,30)}{\blur3}．
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,jpA.sub,NTP,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,cnA.sub,NTP,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,cnA.sub,NTP,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,cnA.sub,NTP,0,0,0,,歌詞部份CrowSONG
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.SONG,NTP,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.SONG,NTP,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.SONG,NTP,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.SONG,NTP,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.SONG,NTP,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.SONG,NTP,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.SONG,NTP,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,JP.SONG,NTP,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,cnA.sub,NTP,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Comment: 0,0:00:00.00,0:00:00.00,Default,PopSub,0,0,0,,// PopSub注释: 下一行已被修改
-Dialogue: 0,0:00:00.00,0:00:00.00,jpA.sub,NTP,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,jpA.sub,NTP,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,jpA.sub,NTP,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,jpA.sub,NTP,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,jpA.sub,NTP,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,jpA.sub,NTP,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,jpA.sub,NTP,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,jpA.sub,NTP,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,jpA.sub,NTP,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,cnA.sub,NTP,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:00.00,cnA.sub,NTP,0,0,0,,
-Dialogue: 0,0:01:39.71,0:01:42.30,jpA.sub,NTP,0,0,0,,What is this place
-Dialogue: 0,0:01:52.07,0:01:53.77,jpA.sub,NTP,0,0,0,,Why can't I remember anything
-Dialogue: 0,0:01:56.05,0:01:57.27,jpA.sub,NTP,0,0,0,,You're awake
+Dialogue: 0,0:01:39.71,0:01:42.30,jpA.sub,NTP,0,0,0,,What is this place?
+Dialogue: 0,0:01:52.07,0:01:53.77,jpA.sub,NTP,0,0,0,,Why can't I remember anything?
+Dialogue: 0,0:01:56.05,0:01:57.27,jpA.sub,NTP,0,0,0,,You're awake.
 Dialogue: 0,0:02:03.21,0:02:04.16,jpA.sub,NTP,0,0,0,,Who-
 Dialogue: 0,0:02:03.68,0:02:05.02,jpA.sub,NTP,0,0,0,,{\a6}Welcome...
-Dialogue: 0,0:02:05.44,0:02:07.43,jpA.sub,NTP,0,0,0,,死んで堪るか戦線へ
-Dialogue: 0,0:02:15.87,0:02:19.44,jpA.sub,NTP,0,0,0,,唐突だけど　あなた入隊してくれないかしら
-Dialogue: 0,0:02:20.28,0:02:21.15,jpA.sub,NTP,0,0,0,,えっ入隊？
-Dialogue: 0,0:02:21.33,0:02:22.73,jpA.sub,NTP,0,0,0,,ここにいるってことは
-Dialogue: 0,0:02:22.89,0:02:24.98,jpA.sub,NTP,0,0,0,,あなた　死んだのよ
-Dialogue: 0,0:02:26.02,0:02:28.40,jpA.sub,NTP,0,0,0,,あの　よくわからないんだけど
-Dialogue: 0,0:02:28.45,0:02:30.35,jpA.sub,NTP,0,0,0,,ここは死んだ後の世界
+Dialogue: 0,0:02:05.90,0:02:07.52,jpA.sub,NTP,0,0,0,,To the battlefield of the dead.
+Dialogue: 0,0:02:15.87,0:02:19.98,jpA.sub,NTP,0,0,0,,It's sudden, but you're our new recruit.
+Dialogue: 0,0:02:19.97,0:02:21.42,jpA.sub,NTP,0,0,0,,Huh? Recruit?
+Dialogue: 0,0:02:21.33,0:02:22.92,jpA.sub,NTP,0,0,0,,Your being here means
+Dialogue: 0,0:02:22.89,0:02:25.14,jpA.sub,NTP,0,0,0,,You're dead
+Dialogue: 0,0:02:22.89,0:02:25.14,jpA.sub,NTP,0,0,0,,{\a6}These subs are kind of annoyingly spaced - pls fix
+Dialogue: 0,0:02:26.02,0:02:28.40,jpA.sub,NTP,0,0,0,,Uh, I don't know about that-
+Dialogue: 0,0:02:28.45,0:02:30.35,jpA.sub,NTP,0,0,0,,This is the afterlife.
 Dialogue: 0,0:02:30.67,0:02:32.48,jpA.sub,NTP,0,0,0,,何もしなければ消されるわよ
 Dialogue: 0,0:02:32.68,0:02:33.52,jpA.sub,NTP,0,0,0,,消される？
 Dialogue: 0,0:02:33.57,0:02:34.64,jpA.sub,NTP,0,0,0,,誰に
